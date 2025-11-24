@@ -4,6 +4,13 @@ Este projeto apresenta um **banco de dados simples** para o gerenciamento de pro
 
 ---
 
+## 🤠 Autores
+
+### *Pedro Herique, Eduardo Tabareli, Lucas Miasaki*
+
+**Análise e desenvolvimento de sistema - 2º Período - [AEMS]**
+
+
 ## 🎯 Objetivo
 
 O objetivo deste projeto é demonstrar a criação e manipulação de uma tabela básica de produtos, aplicando:
